@@ -1,6 +1,7 @@
 # Standalone Cypress
 ## Instructions
-Run: `npm run cypress:open`
+For browser run: `npm run cypress:open`
+For headless (CI) run: `npm run cypress:run`
 
 ## Official Docs
 https://www.cypress.io/
